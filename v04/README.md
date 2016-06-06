@@ -1,1 +1,1 @@
-Has keepalive, allowing to keep the TCP connection open.
+Has keepalive, allowing to keep the TCP connection open .
